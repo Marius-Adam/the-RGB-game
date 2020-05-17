@@ -1,4 +1,3 @@
-# the-RGB-game
 
 <h1><a href="https://marius-adam.github.io/the-RGB-guessing-game/"><strong>RGB Game</strong></a></h1>
 <img src="https://user-images.githubusercontent.com/30567608/29748079-0f075ad0-8b0e-11e7-9f39-96324ebe9136.gif">
